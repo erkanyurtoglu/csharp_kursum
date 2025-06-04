@@ -1,0 +1,11 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\bin\Debug\labelVeTextBox.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\bin\Debug\labelVeTextBox.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\bin\Debug\labelVeTextBox.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.Form1.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\labelVeTextBox\labelVeTextBox\obj\Debug\labelVeTextBox.exe.config
