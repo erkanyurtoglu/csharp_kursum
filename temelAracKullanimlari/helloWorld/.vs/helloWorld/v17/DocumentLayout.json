@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\temelarackullanimlari\\helloworld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\helloWorld\\Form1.cs [Design]",
               "RelativeToolTip": "helloWorld\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T14:55:47.703Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-04T14:55:47.703Z"
             }
           ]
         }
