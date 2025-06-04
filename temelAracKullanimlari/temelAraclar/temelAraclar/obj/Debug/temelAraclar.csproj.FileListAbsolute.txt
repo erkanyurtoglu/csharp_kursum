@@ -1,0 +1,13 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\bin\Debug\temelAraclar.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\bin\Debug\temelAraclar.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\bin\Debug\temelAraclar.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.comboBox_listBox.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.pictureBox_masked__dateTime.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\temelAracKullanimlari\temelAraclar\temelAraclar\obj\Debug\temelAraclar.masked_odev.resources
