@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\temelarackullanimlari\\helloworld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\temelarackullanimlari\\helloworld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F13FBDC-ED37-412C-8988-692B16898010}|helloWorld\\helloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,23 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Tasar\u0131m]",
+              "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\helloWorld\\Form1.cs",
               "RelativeDocumentMoniker": "helloWorld\\Form1.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\helloWorld\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "helloWorld\\Form1.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\helloWorld\\Form1.cs",
+              "RelativeToolTip": "helloWorld\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:02:11.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\helloWorld\\Form1.cs",
+              "RelativeDocumentMoniker": "helloWorld\\Form1.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\temelAracKullanimlari\\helloWorld\\helloWorld\\Form1.cs [Design]",
+              "RelativeToolTip": "helloWorld\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T14:55:47.703Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
