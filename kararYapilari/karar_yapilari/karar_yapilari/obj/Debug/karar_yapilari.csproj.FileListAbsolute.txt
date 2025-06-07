@@ -1,0 +1,12 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\bin\Debug\karar_yapilari.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\bin\Debug\karar_yapilari.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\bin\Debug\karar_yapilari.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.ifelse.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\kararYapilari\karar_yapilari\karar_yapilari\obj\Debug\karar_yapilari.switchcase.resources
