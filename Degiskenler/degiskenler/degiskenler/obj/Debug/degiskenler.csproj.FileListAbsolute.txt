@@ -1,0 +1,15 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.Form1.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.intDegisken.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.intVeriGiris.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.doubleDegisken.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.charDegisken.resources

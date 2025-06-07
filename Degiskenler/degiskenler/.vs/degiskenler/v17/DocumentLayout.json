@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Degiskenler\\degiskenler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0521DA1A-B78B-479D-9369-3FD75C326438}|degiskenler\\degiskenler.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\degiskenler\\degiskenler\\degiskenler\\stringdegisken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0521DA1A-B78B-479D-9369-3FD75C326438}|degiskenler\\degiskenler.csproj|solutionrelative:degiskenler\\stringdegisken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0521DA1A-B78B-479D-9369-3FD75C326438}|degiskenler\\degiskenler.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\degiskenler\\degiskenler\\degiskenler\\chardegisken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0521DA1A-B78B-479D-9369-3FD75C326438}|degiskenler\\degiskenler.csproj|solutionrelative:degiskenler\\chardegisken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0521DA1A-B78B-479D-9369-3FD75C326438}|degiskenler\\degiskenler.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\degiskenler\\degiskenler\\degiskenler\\chardegisken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0521DA1A-B78B-479D-9369-3FD75C326438}|degiskenler\\degiskenler.csproj|solutionrelative:degiskenler\\chardegisken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "stringDegisken.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Degiskenler\\degiskenler\\degiskenler\\stringDegisken.cs",
-              "RelativeDocumentMoniker": "degiskenler\\stringDegisken.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Degiskenler\\degiskenler\\degiskenler\\stringDegisken.cs [Design]",
-              "RelativeToolTip": "degiskenler\\stringDegisken.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "charDegisken.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Degiskenler\\degiskenler\\degiskenler\\charDegisken.cs",
+              "RelativeDocumentMoniker": "degiskenler\\charDegisken.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Degiskenler\\degiskenler\\degiskenler\\charDegisken.cs",
+              "RelativeToolTip": "degiskenler\\charDegisken.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T08:33:49.74Z",
+              "WhenOpened": "2025-06-07T10:11:54.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "charDegisken.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Degiskenler\\degiskenler\\degiskenler\\charDegisken.cs",
+              "RelativeDocumentMoniker": "degiskenler\\charDegisken.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Degiskenler\\degiskenler\\degiskenler\\charDegisken.cs [Design]",
+              "RelativeToolTip": "degiskenler\\charDegisken.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:41:53.694Z",
               "EditorCaption": " [Design]"
             }
           ]
