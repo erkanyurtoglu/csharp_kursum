@@ -1,0 +1,13 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\bin\Debug\diziler.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\bin\Debug\diziler.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\bin\Debug\diziler.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.diziTanimlama.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.diziElemanListele.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Diziler\diziler\diziler\obj\Debug\diziler.foreachDongusu.resources
