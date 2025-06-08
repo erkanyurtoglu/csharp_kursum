@@ -1,0 +1,16 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\bin\Debug\donguler.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\bin\Debug\donguler.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\bin\Debug\donguler.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.forDongusu.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.kararYapilariDonguler.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.whileDongusu.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.doWhile.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.timerKullanimi.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Donguler\donguler\obj\Debug\donguler.progressBar.resources
