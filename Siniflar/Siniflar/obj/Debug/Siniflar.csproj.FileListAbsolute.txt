@@ -1,0 +1,12 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\bin\Debug\Siniflar.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\bin\Debug\Siniflar.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\bin\Debug\Siniflar.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.Form1.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\Siniflar\Siniflar\obj\Debug\Siniflar.Form2.resources

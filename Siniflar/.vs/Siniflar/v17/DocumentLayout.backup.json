@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\siniflar\\siniflar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|solutionrelative:siniflar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\siniflar\\siniflar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|solutionrelative:siniflar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\siniflar\\siniflar\\arabadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|solutionrelative:siniflar\\arabadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|c:\\users\\yurto\\documents\\github\\csharp_kursum\\siniflar\\siniflar\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170D9B35-1B6D-443E-9E1C-CA9B6DD43739}|Siniflar\\Siniflar.csproj|solutionrelative:siniflar\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\Araba.cs",
+              "RelativeDocumentMoniker": "Siniflar\\Araba.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\Araba.cs",
+              "RelativeToolTip": "Siniflar\\Araba.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:27:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\Form1.cs",
+              "RelativeDocumentMoniker": "Siniflar\\Form1.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\Form1.cs",
+              "RelativeToolTip": "Siniflar\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:27:19.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\Form1.cs",
+              "RelativeDocumentMoniker": "Siniflar\\Form1.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\Form1.cs [Design]",
+              "RelativeToolTip": "Siniflar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:27:17.234Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arabaDetay.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\arabaDetay.cs",
+              "RelativeDocumentMoniker": "Siniflar\\arabaDetay.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\csharp_kursum\\Siniflar\\Siniflar\\arabaDetay.cs",
+              "RelativeToolTip": "Siniflar\\arabaDetay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:25:03.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
