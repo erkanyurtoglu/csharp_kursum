@@ -1,0 +1,12 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\bin\Debug\formArasiGecis.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\bin\Debug\formArasiGecis.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\bin\Debug\formArasiGecis.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.exe.config
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.Form1.resources
+C:\Users\yurto\Documents\GitHub\csharp_kursum\formArasiGecis\formArasiGecis\obj\Debug\formArasiGecis.Form2.resources
