@@ -1,0 +1,15 @@
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\bin\Debug\net8.0\consoleEkrani.exe
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\bin\Debug\net8.0\consoleEkrani.deps.json
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\bin\Debug\net8.0\consoleEkrani.runtimeconfig.json
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\bin\Debug\net8.0\consoleEkrani.dll
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\bin\Debug\net8.0\consoleEkrani.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.AssemblyInfoInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.AssemblyInfo.cs
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.sourcelink.json
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.dll
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\refint\consoleEkrani.dll
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.pdb
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\consoleEkrani.genruntimeconfig.cache
+C:\Users\yurto\Documents\GitHub\csharp_kursum\consoleEkrani\consoleEkrani\obj\Debug\net8.0\ref\consoleEkrani.dll
